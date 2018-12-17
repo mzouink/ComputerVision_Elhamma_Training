@@ -19,8 +19,19 @@ The training requires conda installed [conda](https://conda.io/docs/)  to run.
 installation:
 - for [windows](https://conda.io/docs/user-guide/install/windows.html) 
 - for [mac](https://conda.io/docs/user-guide/install/macos.html)
-Then install the dependencies using [conda_env1.txt](conda_env1.txt) 
+Then install the dependencies to new environment called "elhamma1" using [conda_env1.txt](conda_env1.txt) 
 
 ```sh
 $ conda create --name elhamma1 --file conda_env1.txt 
+```
+Activate environment:
+
+```sh
+$ conda activate elhamma1 
+```
+
+Run jupyter notebook:
+
+```sh
+$ jupyter notebook
 ```
