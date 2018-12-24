@@ -35,3 +35,8 @@ Run jupyter notebook:
 ```sh
 $ jupyter notebook
 ```
+
+install tensorflow
+```sh
+$ https://github.com/antoniosehk/keras-tensorflow-windows-installation
+```
