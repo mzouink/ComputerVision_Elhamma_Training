@@ -40,3 +40,11 @@ install tensorflow
 ```sh
 $ https://github.com/antoniosehk/keras-tensorflow-windows-installation
 ```
+
+Step 1:- conda search python
+
+Step 2:- conda install python=3.5.2
+
+Step 3:- pip install tensorflow
+
+Step 4:- import tensorflow as tf
